@@ -1,2 +1,2 @@
 # FirstMavenProject
-My maven project
+My maven project with feature 1.
